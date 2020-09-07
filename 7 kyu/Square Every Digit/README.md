@@ -12,20 +12,20 @@ In this kata, you are asked to square every digit of a number and concatenate th
 
 ## Output
 
-🐣 811181 🐣 (Integer)
+🐣 811181 🐣 `Integer`
 
 ## Explanation
 
 ```
- 9\*9 = 81, 1\*1 = 1, 1\*1 = 1, 9\*9 = 81
- 81, 1, 1, 81
- 811181
+ 1# 9\*9 = 81, 1\*1 = 1, 1\*1 = 1, 9\*9 = 81
+ 2# 81, 1, 1, 81
+ 3# 811181 🎉
 ```
 
 ## Note
 
-The function accepts an integer and returns an integer
+⚠ The function accepts an integer and returns an integer ⚠
 
 ## Links
 
-[Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
+🔗 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) 🔗
