@@ -1,6 +1,6 @@
 # SQUARE EVERY DIGIT - 7kyu
 
-👨🏻‍💻 Solutions using Javascript 👨🏻‍💻
+👨🏻‍💻 Solution using Javascript 👨🏻‍💻
 
 ## Description
 
@@ -8,7 +8,19 @@ In this kata, you are asked to square every digit of a number and concatenate th
 
 ## Input
 
-// => 9119 (Integer)
+🥚 9119 🥚 (Integer)
+
+## Output
+
+🐣 811181 🐣 (Integer)
+
+## Explanation
+
+9*9 = 81, 1*1 = 1, 1*1 = 1, 9*9 = 81
+
+## Note
+
+The function accepts an integer and returns an integer
 
 ## Links
 
