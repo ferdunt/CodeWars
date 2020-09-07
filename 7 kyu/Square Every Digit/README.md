@@ -1,7 +1,14 @@
-# CodeWars - Solution => 7 kyu
+# SQUARE EVERY DIGIT - 7kyu
 
-Solutions using Javascript :rage:
-❤
+👨🏻‍💻 Solutions using Javascript 👨🏻‍💻
+
+## Description
+
+In this kata, you are asked to square every digit of a number and concatenate them.
+
+## Input
+
+// => 9119 (Integer)
 
 ## Links
 
