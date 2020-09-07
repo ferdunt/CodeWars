@@ -8,7 +8,7 @@ In this kata, you are asked to square every digit of a number and concatenate th
 
 ## Input
 
-🥚 9119 🥚 (Integer)
+🥚 9119 🥚 `Integer`
 
 ## Output
 
@@ -16,9 +16,11 @@ In this kata, you are asked to square every digit of a number and concatenate th
 
 ## Explanation
 
-> 9\*9 = 81, 1\*1 = 1, 1\*1 = 1, 9\*9 = 81
-> 81, 1, 1, 81
-> 811181
+```
+ 9\*9 = 81, 1\*1 = 1, 1\*1 = 1, 9\*9 = 81
+ 81, 1, 1, 81
+ 811181
+```
 
 ## Note
 
