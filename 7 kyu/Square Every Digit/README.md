@@ -16,7 +16,7 @@ In this kata, you are asked to square every digit of a number and concatenate th
 
 ## Explanation
 
-9*9 = 81, 1*1 = 1, 1*1 = 1, 9*9 = 81
+9\*9 = 81, 1 _ 1 = 1, 1 _ 1 = 1, 9 \* 9 = 81
 
 ## Note
 
