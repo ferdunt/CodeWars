@@ -9,13 +9,13 @@ You will be given a list of strings and your task will be to return the values o
 ## Input
 
 ```
-🥚 ["abc", "abc abc"] 🥚 `Array - Strings`
+🥚 ["abc", "abc abc"] 🥚 (Array - Strings)
 ```
 
 ## Output
 
 ```
-🐣 [6,24] 🐣 `Array - Integers`
+🐣 [6,24] 🐣 (Array - Integers)
 ```
 
 ## Explanation
@@ -34,4 +34,4 @@ You will be given a list of strings and your task will be to return the values o
 
 ## Links
 
-🔗 [Square Every Digit](https://www.codewars.com/kata/598d91785d4ce3ec4f000018) 🔗
+🔗 [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018) 🔗
