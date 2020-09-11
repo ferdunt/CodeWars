@@ -1,4 +1,4 @@
-# CAN WE DIVIDE IT? - 7kyu
+# CAN WE DIVIDE IT? - 8kyu
 
 👨🏻‍💻 Solution using Javascript 👨🏻‍💻
 
