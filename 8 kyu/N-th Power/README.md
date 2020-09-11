@@ -16,13 +16,11 @@ You are given an array with positive numbers and a number N. You should find the
 
 ```
 🐣 512 🐣 (Integer)
-
 ```
 
 ## Explanation
 
 ```
-
  1# myArray = [1, 1, 1, 1, 1, 1, 1, 1, 1, 2], 9
  2# myArray[9] = 2
  3# 2 ^ 9
@@ -31,7 +29,7 @@ You are given an array with positive numbers and a number N. You should find the
 
 ## Note
 
-⚠ If N is outside of the array, then return -1 ⚠
+⚠ If N is outside of the array, then return -1. ⚠
 
 ## Links
 
