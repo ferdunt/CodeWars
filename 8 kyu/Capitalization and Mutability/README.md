@@ -1,6 +1,6 @@
 # CAPITALIZATION AND MUTABILITY? - 8kyu
 
-👨🏻‍💻 Solution using Javascript 👨🏻‍💻
+The solution to this problem is written in JavaScript below are the details about the problem and you can check the solution above.
 
 ## 💬 Description 💬
 
@@ -26,6 +26,6 @@ Make a function that will return a string with the first letter capitalized.
  3# "Fernando"
 ```
 
-## 📌 Links 📌
+## 🔗 Links 🔗
 
-🔗 [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086) 🔗
+[Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
