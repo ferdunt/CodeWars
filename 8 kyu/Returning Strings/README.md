@@ -21,9 +21,10 @@ Make a function that will return a greeting statement that uses an input.
 ## 👓 Explanation 👓
 
 ```
- 1# Just concatenate the variable inside a function declaration 👴🏻
+ 1#
+ Just concatenate the variable inside a function declaration 👴🏻
  OR
- 2# Just concatenate the variable inside a arrow function
+ Just concatenate the variable inside a arrow function
  3# Check the solution.js 😉 🎉
 
 ```
