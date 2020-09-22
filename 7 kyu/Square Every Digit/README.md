@@ -1,20 +1,25 @@
 # SQUARE EVERY DIGIT - 7kyu
 
-👨🏻‍💻 Solution using Javascript 👨🏻‍💻
+The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## Description
+## 💬 Description 💬
 
 In this kata, you are asked to square every digit of a number and concatenate them.
+The function accepts an integer and returns an integer.
 
-## Input
+## 🥚 Input 🥚
 
-🥚 9119 🥚 `Integer`
+```
+9119 (Integer)
+```
 
-## Output
+## 🐣 Output 🐣
 
-🐣 811181 🐣 `Integer`
+```
+811181 (Integer)
+```
 
-## Explanation
+## 👓 Explanation 👓
 
 ```
  1# 9\*9 = 81, 1\*1 = 1, 1\*1 = 1, 9\*9 = 81
@@ -22,10 +27,6 @@ In this kata, you are asked to square every digit of a number and concatenate th
  3# 811181 🎉
 ```
 
-## Note
+## 🔗 Links 🔗
 
-⚠ The function accepts an integer and returns an integer ⚠
-
-## Links
-
-🔗 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) 🔗
+[Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)

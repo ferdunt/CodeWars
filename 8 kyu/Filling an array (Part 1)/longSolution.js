@@ -1,6 +1,6 @@
 /** LONG SOLUTION */
 
-const arrayLong = n => {
+const arrayLong = (n) => {
     // 💬 Create an empty array
     let myArray = [];
 

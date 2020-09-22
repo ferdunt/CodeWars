@@ -1,10 +1,9 @@
-
 function nextId(ids) {
-    // 💬 We order our 'ids' array  
+    // 💬 We order our 'ids' array
     ids.sort((a, b) => a - b);
 
     // 💬 Delete duplicate values
-    ids = [... new Set(ids)]
+    ids = [...new Set(ids)];
 
     let newID = 0;
 
@@ -19,7 +18,6 @@ function nextId(ids) {
 
     return newID;
 }
-
 
 const result = nextId([0, 5, 1, 1, 3, 4]); // 🥚
 console.log(result); // 🐣 2

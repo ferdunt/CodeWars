@@ -1,7 +1,6 @@
 function fakeBin(stringNumber) {
-
     // 💬 Convert 'stringNumber' into an array
-    let numbers = stringNumber.split('');
+    let numbers = stringNumber.split("");
 
     // 💬 Loop inside the 'numbers' array
     for (let i = 0; i < numbers.length; i++) {
@@ -14,8 +13,8 @@ function fakeBin(stringNumber) {
     }
 
     // 💬 Join the 'numbers' array into a single string
-    return numbers.join('');
+    return numbers.join("");
 }
 
-const result = fakeBin('45385593107843568') // 🥚
-console.log(result); // 🐣 '01011110001100111' 
+const result = fakeBin("45385593107843568"); // 🥚
+console.log(result); // 🐣 '01011110001100111'

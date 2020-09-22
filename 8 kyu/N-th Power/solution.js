@@ -8,8 +8,5 @@ function index(array, n) {
     return value;
 }
 
-let result = index([1, 1, 1, 1, 1, 1, 1, 1, 1, 2], 9) // 🥚
+let result = index([1, 1, 1, 1, 1, 1, 1, 1, 1, 2], 9); // 🥚
 console.log(result); // 🐣 512
-
-
-

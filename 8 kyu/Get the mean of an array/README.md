@@ -1,24 +1,24 @@
 # GET THE MEAN OF AN ARRAY? - 8kyu
 
-👨🏻‍💻 Solution using Javascript 👨🏻‍💻
+The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## Description
+## 💬 Description 💬
 
 The averages must be calculated.
 
-## Input
+## 🥚 Input 🥚
 
 ```
-🥚 [2, 2, 2, 2] 🥚 (Array - Integers)
+[2, 2, 2, 2] (Array of Integers)
 ```
 
-## Output
+## 🐣 Output 🐣
 
 ```
-🐣 2 🐣 (Integer)
+2 (Integer)
 ```
 
-## Explanation
+## 👓 Explanation 👓
 
 ```
  1# [2, 2, 2, 2]
@@ -27,6 +27,6 @@ The averages must be calculated.
  4# 2 🎉
 ```
 
-## Links
+## 🔗 Links 🔗
 
-🔗 [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158/javascript) 🔗
+[Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158/javascript)

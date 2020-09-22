@@ -1,33 +1,33 @@
 # RETURNING STRINGS? - 8kyu
 
-👨🏻‍💻 Solution using Javascript 👨🏻‍💻
+The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## Description
+## 💬 Description 💬
 
 Make a function that will return a greeting statement that uses an input.
 
-## Input
+## 🥚 Input 🥚
 
 ```
-🥚 "Ryan" 🥚 (String)
+"Ryan" (String)
 ```
 
-## Output
+## 🐣 Output 🐣
 
 ```
-🐣 "Hello, Ryan how are you doing today?" 🐣 (String)
+"Hello, Ryan how are you doing today?" (String)
 ```
 
-## Explanation
+## 👓 Explanation 👓
 
 ```
  1# Just concatenate the variable inside a function declaration 👴🏻
  OR
  2# Just concatenate the variable inside a arrow function
- 3# Check the solution.js 😉
+ 3# Check the solution.js 😉 🎉
 
 ```
 
-## Links
+## 🔗 Links 🔗
 
-🔗 [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4) 🔗
+[Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)

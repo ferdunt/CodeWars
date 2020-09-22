@@ -6,5 +6,5 @@ function getAverage(notes) {
     return Math.floor(average);
 }
 
-const result = getAverage([2, 2, 2, 2]) // 🥚
+const result = getAverage([2, 2, 2, 2]); // 🥚
 console.log(result); // 🐣 2

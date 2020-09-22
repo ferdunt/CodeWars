@@ -1,34 +1,31 @@
 # CAN WE DIVIDE IT? - 8kyu
 
-👨🏻‍💻 Solution using Javascript 👨🏻‍💻
+The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## Description
+## 💬 Description 💬
 
 Your task is to check if an integer number is divisible by each out of two arguments.
 
-## Input
+## 🥚 Input 🥚
 
 ```
-🥚 [45, 1, 6] 🥚 (Array - Integers) // Case # 1
-🥚 [45, 5, 15] 🥚 (Array - Integers) // Case # 2
+[45, 1, 6] (Array of Integers)
 ```
 
-## Output
+## 🐣 Output 🐣
 
 ```
-🐣 false 🐣 (Boolean) // Case # 1
-🐣 true 🐣 (Boolean) // Case # 2
+false (Boolean)
 ```
 
-## Explanation
+## 👓 Explanation 👓
 
 ```
-// Case # 1
  1# [45,1,6]
- 2# 45 % 1 === 0 and 45 % 6 === 0
+ 2# 45 % 1 === 0 && 45 % 6 === 0
  3# true 🎉
 ```
 
-## Links
+## 🔗 Links 🔗
 
-🔗 [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018) 🔗
+[Can we divide it?](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)

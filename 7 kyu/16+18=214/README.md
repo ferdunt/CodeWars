@@ -9,13 +9,13 @@ Make a function that will return an add but it does not like the principle of ca
 ## 🥚 Input 🥚
 
 ```
- (2, 11) (Integers)
+(2, 11) (Integers)
 ```
 
 ## 🐣 Output 🐣
 
 ```
- 13 (Integer)
+13 (Integer)
 ```
 
 ## 👓 Explanation 👓
@@ -23,7 +23,7 @@ Make a function that will return an add but it does not like the principle of ca
 ```
  1# 2 + 11
  2# 1 + 0 = 1, 1 + 2 = 3
- 3# 13
+ 3# 13 🎉
 ```
 
 ## 🔗 Links 🔗

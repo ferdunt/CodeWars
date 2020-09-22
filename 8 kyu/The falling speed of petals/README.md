@@ -29,8 +29,8 @@ Write a function that receives the speed (in cm/s) of a petal as input, and retu
  t = time [s]
  2# s = 5[cm/s] * 80[s] = 400cm
  3# Divide 's' with the input
- 3# 400 / 10;
- 3# 40 🎉
+ 4# 400 / 10;
+ 5# 40 🎉
 ```
 
 ## 🔗 Links 🔗

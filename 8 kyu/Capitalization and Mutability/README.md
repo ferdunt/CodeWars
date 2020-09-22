@@ -23,7 +23,7 @@ Make a function that will return a string with the first letter capitalized.
 ```
  1# "fernando"
  2# "F" + "ernando"
- 3# "Fernando"
+ 3# "Fernando" 🎉
 ```
 
 ## 🔗 Links 🔗

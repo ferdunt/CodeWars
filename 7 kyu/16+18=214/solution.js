@@ -1,8 +1,8 @@
 function add(num1, num2) {
     // 💬 Convert each integer into an array of integers
     // 💬 map(Number) is equal to map(element => Number(element)) 😉
-    let array1 = num1.toString().split('').map(Number);
-    let array2 = num2.toString().split('').map(Number);
+    let array1 = num1.toString().split("").map(Number);
+    let array2 = num2.toString().split("").map(Number);
 
     // 💬 Check if both arrays are the same size
     while (array1.length !== array2.length) {
@@ -18,7 +18,7 @@ function add(num1, num2) {
     let sum = 0;
 
     // 💬 'total' will concatenate the sum as String
-    let total = '';
+    let total = "";
 
     // 💬 'size' is a general size of both arrays
     const size = array1.length;
@@ -33,5 +33,5 @@ function add(num1, num2) {
     return Number(total);
 }
 
-const result = add(2, 11) // 🥚
+const result = add(2, 11); // 🥚
 console.log(result); // 🐣 13

@@ -3,10 +3,10 @@ function isDivideBy(number, a, b) {
     let numbers = [a, b];
 
     // 💬 Check if every digit in our 'numbers' array is divisible
-    let isDivisible = numbers.every(num => number % num === 0);
+    let isDivisible = numbers.every((num) => number % num === 0);
 
     return isDivisible;
 }
 
-const result = isDivideBy(45, 1, 6);
+const result = isDivideBy(45, 1, 6); // 🥚
 console.log(result); // 🐣 false
