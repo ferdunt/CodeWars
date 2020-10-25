@@ -21,9 +21,10 @@ reate a function finalGrade, which calculates the final grade of a student depen
 ## 👓 Explanation 👓
 
 ```
- 1# ([1, 2, 3], [4, 5, 6])
- 2# [1, 2, 3, 4, 5, 6]
- 3# 21 🎉
+ 1# (75, 5)
+ 2# 75 > 50 && 5 >= 2
+ 2# true
+ 3# 75 🎉
 ```
 
 ## 🔗 Links 🔗
