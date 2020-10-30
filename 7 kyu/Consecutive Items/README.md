@@ -4,7 +4,7 @@ The solution to this problem is written in JavaScript the detail about the probl
 
 ## 💬 Description 💬
 
-Impliment the reverse function, which takes in input n and reverses it. For instance, reverse(123) should return 321. You should do this without converting the inputted number into a string.
+You are given a list of unique integers arr, and two integers a and b. Your task is to find out whether or not a and b appear consecutively in arr, and return a boolean value (True if a and b are consecutive, False otherwise).
 
 ## 🥚 Input 🥚
 
