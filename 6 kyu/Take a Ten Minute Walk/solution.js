@@ -20,5 +20,5 @@ function isValidWalk(walks) {
   return n - s === 0 && w - e === 0 ? true : false;
 }
 
-const result = isValidWalk(['n', 'n', 'n', 's', 'n', 's', 'n', 's', 'n', 's']);
-console.log(result);
+const result = isValidWalk(['n', 'n', 'n', 's', 'n', 's', 'n', 's', 'n', 's']); // 🥚
+console.log(result); // 🐣 false
