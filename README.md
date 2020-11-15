@@ -10,6 +10,8 @@ I'm actually solving 8kyu, 7kyu and 6kyu.
 
 > sort()
 
--   Simple frequency sort
+- Simple frequency sort
 
->
+> recursion
+
+- Sum of Digits Digital Root
