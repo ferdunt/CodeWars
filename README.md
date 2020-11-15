@@ -15,3 +15,7 @@ I'm actually solving 8kyu, 7kyu and 6kyu.
 > recursion
 
 - Sum of Digits Digital Root
+
+> Algorithms
+
+- Reverse Polish notation
