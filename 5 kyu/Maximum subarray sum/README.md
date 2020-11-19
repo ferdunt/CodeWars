@@ -2,10 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-The maximum sum subarray problem consists in finding the maximum sum of a contiguous subsequence in an array or list of integers.
-
 ## 🥚 Input 🥚
 
 ```

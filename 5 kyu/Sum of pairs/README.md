@@ -2,10 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-Given a list of integers and a single sum value, return the first two values (parse from the left please) in order of appearance that add up to form the sum.
-
 ## 🥚 Input 🥚
 
 ```
