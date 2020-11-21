@@ -2,10 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-Given the string representations of two integers, return the string representation of the sum of those integers.
-
 ## 🥚 Input 🥚
 
 ```
