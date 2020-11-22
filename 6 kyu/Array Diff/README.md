@@ -2,12 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
-
-It should remove all values from list a, which are present in list b.
-
 ## 🥚 Input 🥚
 
 ```
