@@ -2,14 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-Given an array (arr) as an argument complete the function countSmileys that should return the total number of smiling faces.
-
-Valid smiley face examples: `:) :D ;-D :~)`
-
-Invalid smiley faces: `;( :> :} :]`
-
 ## 🥚 Input 🥚
 
 ```
