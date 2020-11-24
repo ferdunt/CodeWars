@@ -2,11 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-For building the encrypted string:
-Take every 2nd char from the string, then the other chars, that are not every 2nd char, and concat them as new String.
-
 ## 🥚 Input 🥚
 
 ```

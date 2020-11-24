@@ -2,12 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-Given an array of integers, find the one that appears an odd number of times.
-
-There will always be only one integer that appears an odd number of times.
-
 ## 🥚 Input 🥚
 
 ```

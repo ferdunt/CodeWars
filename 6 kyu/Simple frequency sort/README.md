@@ -2,10 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-You will sort elements in an array by decreasing frequency of elements. If two elements have the same frequency, sort them by increasing value.
-
 ## 🥚 Input 🥚
 
 ```

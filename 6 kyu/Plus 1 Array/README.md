@@ -2,13 +2,6 @@
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
-## 💬 Description 💬
-
-Given an array of integers of any length, return an array that has 1 added to the value represented by the array.
-
--   The array can't be empty.
--   Only non-negative, single digit integers are allowed.
-
 ## 🥚 Input 🥚
 
 ```
