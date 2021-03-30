@@ -21,10 +21,10 @@ In this kata you get the start number and the end number of a region and should 
 ## 👓 Explanation 👓
 
 ```
- 1# (1, 9)
- 2# [1, 2, 3, 4, 5, 6, 7, 8, 9]
- 3# [1, 2, 3, 4, 6, 7, 8, 9]
- 4# 8 🎉
+1# (1, 9)
+2# [1, 2, 3, 4, 5, 6, 7, 8, 9]
+3# [1, 2, 3, 4, 6, 7, 8, 9]
+4# 8 🎉
 ```
 
 ## 🔗 Links 🔗
