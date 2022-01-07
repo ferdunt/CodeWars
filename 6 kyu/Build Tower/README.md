@@ -1,28 +1,28 @@
-# Format a string of names - 6kyu
+# Build Tower - 6kyu
 
 The solution to this problem is written in JavaScript the detail about the problem is below and you can check the solution above.
 
 ## 🥚 Input 🥚
 
 ```
-[ {name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'} ] (Array of objects)
+3 (Number)
 ```
 
 ## 🐣 Output 🐣
 
 ```
-"Bart, Lisa & Maggie" (String)
+["  *  "," *** ","*****"] (Array of Strings)
 ```
 
 ## 👓 Explanation 👓
 
 ```
- 1# [ {name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'} ]
- 2# ['Bart', 'Lisa', 'Maggie']
- 3# "Bart, Lisa, Maggie"
- 4# "Bart, Lisa & Maggie" 🎉
+ 1# 3
+ 2# ['','','']
+ 3# ['*','***','*****']
+ 4# ['  *  ',' *** ','*****'] 🎉
 ```
 
 ## 🔗 Links 🔗
 
-[Format a string of names](https://www.codewars.com/kata/53368a47e38700bd8300030d)
+[Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/javascript)
